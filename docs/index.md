@@ -6,7 +6,7 @@ Here we will attempt to verify all sources and arguments Dr. Lana Corrine Cantre
 
 ## FOREWORD
 
-Our best two examples are from NASA itself, [Josef P. Blumrich][1] and [Maurice Chatelain]. Blumrich was Chief of the Systems Layout Branch of NASA, a skeptic until he read the story of Ezekial and therein found the exact description of a spaceship and wrote his book, [SPACESHIPS OF EZEKIAL][2], using his technical acumen of aeronautics to discern what went on here. Another superb book is ["OUR ANCESTORS CAME FROM OUTER SPACE" A NASA Expert Confirms Mankinds Exterrestriai Origins][4] (Doubleday & Company, Inc., NY-1978) by Maurice Chatelain.
+Our best two examples are from NASA itself, [Josef P. Blumrich][1] and [Maurice Chatelain][2]. Blumrich was Chief of the Systems Layout Branch of NASA, a skeptic until he read the story of Ezekial and therein found the exact description of a spaceship and wrote his book, [SPACESHIPS OF EZEKIAL][3], using his technical acumen of aeronautics to discern what went on here. Another superb book is ["OUR ANCESTORS CAME FROM OUTER SPACE" A NASA Expert Confirms Mankinds Exterrestriai Origins][4] (Doubleday & Company, Inc., NY-1978) by Maurice Chatelain.
 
 [1]: http://spaceshipsofezekiel.com/html/josef-blumrich-bio.html
 [2]: http://www.imdb.com/name/nm1132043/bio
