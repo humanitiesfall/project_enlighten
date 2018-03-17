@@ -1,6 +1,8 @@
-# Welcome to MkDocs
+# Welcome to Humanities Fall
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+Here we will attempt to verify all sources and arguments Dr. Lana Corrine Cantrell makes use of in her book, "The Greatest Story Never Told - A Scientific Inquiry into the Evidence of the Fall of Man from a Higher Civilization in Antiquity". This will be used to establish whether her theory is plausible.
+
+[A copy of the book can be downloaded at archive.org in various formats](https://archive.org/details/THEGREATESTSTORYNEVERTOLDDr.LanaCantrell).
 
 ## Commands
 
